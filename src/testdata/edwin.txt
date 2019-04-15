@@ -1,0 +1,8 @@
+1. 研发内部项目梳理，协调和把控
+
+2. JIRA使用规范的制定和宣贯
+3. 使用JIRA和研发流程的培训
+4. 外部项目商务对接，抽身嘉宝嘉里项目
+5. review 功能分类和ROI评分
+and precision are measured in units of
+14.49
